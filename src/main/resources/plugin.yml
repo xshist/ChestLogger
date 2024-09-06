@@ -1,0 +1,4 @@
+name: ChestLogger
+version: '${project.version}'
+main: org.inoobsorry.chestlogger.ChestLogger
+api-version: '1.20'
